@@ -1,6 +1,6 @@
 # ecareTest
 
-This project is a Selenium-based automated testing suite for ecare interview.
+This project is a Selenium-based automated testing suite for ecore interview.
 
 ## Features
 
@@ -17,8 +17,8 @@ This project is a Selenium-based automated testing suite for ecare interview.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/everton159/ecareTest
-   cd ecareTest
+   git clone https://github.com/everton159/ecoreTest
+   cd ecoreTest
 
 2. Install requirements
     ```bash
